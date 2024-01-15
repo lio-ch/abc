@@ -1,2 +1,4 @@
 #test helloworld
-print("Hello World")
+import foobar
+
+foobar.printHello()
